@@ -45,7 +45,7 @@ data = [{
 }]
 
 layout = {
-    'title': 'Top 20 bikesharing brands',
+    'title': 'Top 20 bikesharing brands using citybik.es API',
     'xaxis': {'title': 'Brands'},
     'yaxis': {'title': 'Number of locations'},
 }
